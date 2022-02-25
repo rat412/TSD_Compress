@@ -1,0 +1,5 @@
+C:/Users/cc/source/repos/Compress/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/cc/source/repos/Compress/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/cc/source/repos/Compress/out/build/x64-Debug/Compress/CMakeFiles/rebuild_cache.dir
+C:/Users/cc/source/repos/Compress/out/build/x64-Debug/Compress/CMakeFiles/Compress.dir
+C:/Users/cc/source/repos/Compress/out/build/x64-Debug/Compress/CMakeFiles/edit_cache.dir

@@ -1,0 +1,10 @@
+# ninja log v5
+0	11	0	clean	fa478307b0740d8d
+0	837	6666169131455707	Compress/CMakeFiles/Compress.dir/Compress.cpp.obj	6d852a76587e3ec8
+839	1225	6666169135225246	Compress/Compress.exe	91d2d07138023529
+0	14	0	clean	fa478307b0740d8d
+1	708	6666171840907991	Compress/CMakeFiles/Compress.dir/Compress.cpp.obj	6d852a76587e3ec8
+0	14	0	clean	fa478307b0740d8d
+8	350	6666172243284977	Compress/CMakeFiles/Compress.dir/Compress.cpp.obj	6d852a76587e3ec8
+1	545	6666172245315304	Compress/CMakeFiles/Compress.dir/Test.cpp.obj	3acf5130a5497acd
+545	761	6666172247089286	Compress/Compress.exe	5ed55b0063123ba3
